@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @osaintnom
+👋 Hi, I’m @osaintnom
 
 👀 **Interests**:  
 AI & Machine Learning, Data Analysis, Digital Technology, History, Art, Finance, and Sports.
