@@ -1,16 +1,23 @@
-## Hi there 👋
+### 👋 Hi, I’m @osaintnom
 
-<!--
-**osaintnom/osaintnom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 **Interests**:  
+AI & Machine Learning, Data Analysis, Digital Technology, History, Art, Finance, and Sports.
 
-Here are some ideas to get you started:
+🌱 **Currently Studying**:  
+**Digital Technology** at **Torcuato Di Tella University**  
+*Focus: Computer Science & AI*  
+**Exchange Program** at **Rotterdam School of Management**  
+*Focus: Entrepreneurship & People Behavior Management*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 **Looking to Collaborate On**:  
+AI/ML projects, Data Science, NLP, and open-source initiatives.
+
+📚 **Skills**:
+- **Languages**: Python, C++, R, HTML, CSS, JavaScript
+- **Libraries**: Numpy, Pandas, Scikit-learn, PyTorch
+- **Tools**: Git, Power BI, Azure
+- **Specialties**: Machine Learning, NLP, Data Visualization
+
+📫 **Reach Me**:  
+- **Instagram**: [@osaintnom](https://www.instagram.com/osaintnom/)  
+- **Email**: [olisaintnom@gmail.com](mailto:olisaintnom@gmail.com)
